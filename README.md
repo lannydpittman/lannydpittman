@@ -8,6 +8,6 @@ Now:
 
 - Writes: C++, C#, VB.Net, VBA, SQL
 
-- Learning: Racket (#lisp-is-awesome)
+- Learning: Racket (#lisp-is-awesome), Common Lisp, Emacs
 
-- Interested in: Io language, Metaprogrammming
+- Interested in: Io language, Metaprogrammming, Web Applications 
